@@ -1,2 +1,2 @@
 # cook-eat
-Project for Top 10 Finalist of Binus Festival Business Plan Competition
+A recipe website database created using Laravel framework for Web Programming course.
